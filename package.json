@@ -14,6 +14,7 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
+    "es-check": "^6.0.0",
     "eslint": "7",
     "eslint-config-next": "12.0.1"
   }
